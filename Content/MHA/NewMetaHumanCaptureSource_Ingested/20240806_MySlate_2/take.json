@@ -1,0 +1,23 @@
+{
+  "deviceModel" : "iPhone16,1",
+  "endTimecode" : "20:51:29:22.960",
+  "identifier" : "20240806_MySlate_2",
+  "date" : "2024-08-06T16:29:54Z",
+  "appVersion" : "v1.3.2 (build 99)",
+  "startTimestamp" : {
+    "value" : 1543878232088335,
+    "timescale" : 1000000000
+  },
+  "slate" : "MySlate",
+  "subject" : "iPhone",
+  "videoTargetFrameRate" : 60,
+  "version" : 1,
+  "take" : 2,
+  "frames" : 670,
+  "endTimestamp" : {
+    "value" : 1543889382677245,
+    "timescale" : 1000000000
+  },
+  "calibrated" : false,
+  "startTimecode" : "20:51:18:13.925"
+}
