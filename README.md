@@ -1,4 +1,4 @@
-# EQUITY - Enhancing QUality of Instruction using TechnologY
+# EQUITY - VirtualPatient - UE5
 
 [![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/WO2vVaD8WoE)
 
